@@ -114,7 +114,7 @@ allSections.forEach(item =>{
    allButtons.forEach(button =>{
       button.style.width ='20%' ;
       button.style.padding= '.5em';
-      button.style.backgroundColor = 'yellow';
+      button.style.backgroundColor = '#333';
       button.style.fontSize = '1em';
       button.style.fontWeight = 'bold';
 
